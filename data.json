@@ -1,0 +1,31 @@
+
+{
+  "content": [
+    {
+      "title": "Classic Burger",
+      "description": "Juicy beef patty with cheese, lettuce, and tomato",
+      "image_url": "https://example.com/classic_burger.jpg"
+    },
+    {
+      "title": "Veggie Pizza",
+      "description": "Fresh vegetables on a crispy crust",
+      "image_url": "https://example.com/veggie_pizza.jpg"
+    },
+    {
+      "title": "Mystery Dish",
+      "description": "Chef's special - a surprise in every bite!"
+    },
+    {
+      "description": "Crispy golden fries served with our special sauce",
+      "image_url": "https://example.com/fries.jpg"
+    },
+    {
+      "title": "Caesar Salad",
+      "description": "Fresh romaine lettuce with parmesan and croutons"
+    },
+    {
+      "title": "Chocolate Sundae",
+      "image_url": "https://example.com/chocolate_sundae.jpg"
+    }
+  ]
+}
