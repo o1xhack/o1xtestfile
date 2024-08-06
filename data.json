@@ -1,15 +1,14 @@
-
 {
   "content": [
     {
       "title": "Classic Burger",
       "description": "Juicy beef patty with cheese, lettuce, and tomato",
-      "image_url": "https://example.com/classic_burger.jpg"
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
     },
     {
       "title": "Veggie Pizza",
       "description": "Fresh vegetables on a crispy crust",
-      "image_url": "https://example.com/veggie_pizza.jpg"
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
     },
     {
       "title": "Mystery Dish",
@@ -17,7 +16,7 @@
     },
     {
       "description": "Crispy golden fries served with our special sauce",
-      "image_url": "https://example.com/fries.jpg"
+      "image_url": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
     },
     {
       "title": "Caesar Salad",
@@ -25,7 +24,74 @@
     },
     {
       "title": "Chocolate Sundae",
-      "image_url": "https://example.com/chocolate_sundae.jpg"
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "description": "Creamy pasta with pancetta and egg",
+      "image_url": "https://images.unsplash.com/photo-1612874742237-6526221588e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Chicken Wings",
+      "description": "Spicy buffalo wings with blue cheese dip",
+      "image_url": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Greek Salad",
+      "description": "Fresh vegetables, feta cheese, and olives",
+      "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Steak Frites",
+      "description": "Grilled sirloin with crispy fries",
+      "image_url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Sushi Platter",
+      "description": "Assorted fresh sushi and sashimi"
+    },
+    {
+      "title": "Mushroom Risotto",
+      "description": "Creamy Arborio rice with wild mushrooms",
+      "image_url": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Fish and Chips",
+      "description": "Crispy battered cod with thick-cut fries",
+      "image_url": "https://images.unsplash.com/photo-1579208575657-c595a05383b7?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Vegetable Curry",
+      "description": "Aromatic curry with seasonal vegetables",
+      "image_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Chicken Quesadilla",
+      "description": "Grilled chicken and cheese in a crispy tortilla"
+    },
+    {
+      "title": "Lobster Roll",
+      "description": "Fresh lobster meat in a toasted bun",
+      "image_url": "https://images.unsplash.com/photo-1553251040-03213eb6fc72?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Pancake Stack",
+      "description": "Fluffy pancakes with maple syrup and butter",
+      "image_url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Beef Tacos",
+      "description": "Spicy beef in soft corn tortillas"
+    },
+    {
+      "title": "Caprese Salad",
+      "description": "Fresh mozzarella, tomatoes, and basil",
+      "image_url": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "title": "Tiramisu",
+      "description": "Classic Italian coffee-flavored dessert",
+      "image_url": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
     }
   ]
 }
